@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hazem Hamdy - CV</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 800px;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #333;
+        }
+        .contact-info {
+            margin-bottom: 20px;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        li {
+            margin-bottom: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Hazem Hamdy</h1>
+        <p><strong>Business Information Systems Student</strong></p>
+        
+        <div class="contact-info">
+            <p>📞 +20 01026432999 | ✉️ hazem31hamdy@gmail.com</p>
+        </div>
+
+        <div class="section">
+            <h2>Professional Summary</h2>
+            <p>Third-year Business Information Systems student at Assiut University with expertise in programming (Java, C#), database management, and system design. Proven leadership in academic projects, including designing a relational database in Microsoft Access and leading a system analysis team.</p>
+        </div>
+
+        <div class="section">
+            <h2>Education</h2>
+            <p><strong>Faculty of Commerce, Assiut University</strong></p>
+            <p>Business Information Systems Department - Expected Graduation: 2026</p>
+        </div>
+
+        <div class="section">
+            <h2>Certifications & Training</h2>
+            <ul>
+                <li>Data Structures and Algorithms using C# - ITI (July 2024)</li>
+                <li>Introduction to Programming Using Java + HTML & CSS - ITI (July 2023)</li>
+                <li>Workshop: Customs Work Mechanisms at Safaga Port (Feb 2023)</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>Technical Skills</h2>
+            <ul>
+                <li>Programming: Java, HTML, CSS</li>
+                <li>Database Management: Microsoft Access</li>
+                <li>System Analysis and Design</li>
+                <li>Microsoft Tools: Excel, PowerPoint</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>Soft Skills</h2>
+            <ul>
+                <li>Presentation Skills</li>
+                <li>Problem Solving</li>
+                <li>Leadership</li>
+                <li>Effective Communication</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>Accomplishments</h2>
+            <ul>
+                <li>Designed a relational database using Microsoft Access.</li>
+                <li>Directed a team for a System Analysis and Design course project.</li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
